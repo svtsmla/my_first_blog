@@ -55,3 +55,11 @@ h2, h3, h4 {
     color: #5086B1;
 }
 
+.align{
+    display: flex;
+    align-items: center;
+}
+
+.btn-edit{
+    height: 3rem;
+}
